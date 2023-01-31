@@ -1,0 +1,30 @@
+div.content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  margin-left: 65px;
+  margin-right: 5px;
+  padding: 1px 6px;
+  height: auto;
+  min-height: 150px;
+  background-color: #060706;
+  color: rgb(252, 252, 252);
+  border-radius: 5px;
+
+}
+#echart{
+
+ padding: 1px 6px;
+  margin-top: 5px;
+  margin-left: 65px;
+  margin-right: 5px;
+  height: 950px;
+  background-color: #060706;
+  color: rgb(252, 252, 252);
+  border-radius: 5px;}
+
+  #t1{
+    width: 450px;
+    height: 150px;
+    max-width:'400px';
+  }
